@@ -2477,8 +2477,7 @@ textarea.form-control-lg {
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
-  -webkit-print-color-adjust: exact;
-          color-adjust: exact;
+  
 }
 .form-check-input[type=checkbox] {
   border-radius: 0.25em;
@@ -11238,7 +11237,7 @@ textarea.form-control-lg {
 @media print {
   .d-print-inline {
     display: inline !important;
-  }
+  } kf
 
   .d-print-inline-block {
     display: inline-block !important;
